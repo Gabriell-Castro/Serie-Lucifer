@@ -10,6 +10,6 @@ Esse projeto foi desenvolvido com as tecnologias:
 - JavaScript
 - Git e Github
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://gabriell-castro.github.io/Serie-Lucifer/)
 
 ---
